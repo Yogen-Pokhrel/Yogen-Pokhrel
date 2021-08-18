@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Finally &lt;/you find who you are looking for&gt; 👋</h1>
+  <h1> Finally you find who you are looking for 👋</h1>
 </div>
  
 <p align='center'> 
