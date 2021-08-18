@@ -15,8 +15,8 @@
 ### About me 
 
 - 🎖  Front-end developer at [ServiceMyCar](https://servicemycar.com).
-- 🎓  Graduate Computer Engineering.
-- 💭  Let's connect and grow community.
+- 🎓 Computer Engineer.
+- 💭 Let's connect and grow community.
 
 
 <div align="center">
