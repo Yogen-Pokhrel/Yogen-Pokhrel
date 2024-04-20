@@ -9,12 +9,12 @@
  -->
 </p>
 <div align="center">
-<h3> 🐝 Yogen | 💻 Software Engineer | 🌏 Dubai, UAE </h3> 
+<h3> 🐝 Yogen | 💻 Software Architect | 🌏 IOWA, USA </h3> 
 </div>
 
 ### About me 
 
-- 🎖  Front-end developer at [ServiceMyCar](https://servicemycar.com).
+<!-- - 🎖  Front-end developer at [ServiceMyCar](https://servicemycar.com). -->
 - 🎓 Computer Engineer.
 - 💭 Let's connect and grow community.
 
